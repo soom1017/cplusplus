@@ -1,3 +1,8 @@
-# ITE1015_Creative_Software_Programming
+# cplusplus
 
-1-2 창의적소프트웨어프로그래밍 : c++ 과목이다.
+this repository has..
+
+2020_ITE1015
+
+	1-2 창의적소프트웨어프로그래밍 과목의 c++ 과제 파일들
+	
